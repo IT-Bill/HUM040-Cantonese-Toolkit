@@ -1,0 +1,4 @@
+pycantonese
+flask
+flask-cors
+tencentcloud-sdk-python
